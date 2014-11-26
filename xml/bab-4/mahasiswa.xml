@@ -1,10 +1,22 @@
 <?xml version="1.0"?>
 <data>
   <mahasiswa>
+    <nim>1</nim>
+    <nama>Burhanudin Hakim</nama>
+    <alamat>Yogyakarta</alamat>
+    <prodi>KOMSI</prodi>
+  </mahasiswa>
+  <mahasiswa>
     <nim>123</nim>
     <nama>andi</nama>
     <alamat>jogja</alamat>
     <prodi>komsi</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>125</nim>
+    <nama>Pegawai 0572 W</nama>
+    <alamat>Yogyakarta</alamat>
+    <prodi>KOMSI</prodi>
   </mahasiswa>
   <mahasiswa>
     <nim>342</nim>

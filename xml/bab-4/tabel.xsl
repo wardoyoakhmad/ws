@@ -22,4 +22,3 @@
   </html>
 </xsl:template>
 </xsl:stylesheet>
-</xml>

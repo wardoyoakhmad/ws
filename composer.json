@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": "~5.5.12",
+    "ext-bcmath": "*",
+    "ext-memcached": "*",
+    "ext-mysql": "*",
+    "ext-xsl": "*",
+    "ext-mysql": "*",
+    "ext-mysqli": "*",
+    "ext-mysqlnd": "*"
+  }
+}
